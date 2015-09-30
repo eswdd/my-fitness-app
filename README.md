@@ -9,3 +9,4 @@ Intended features:
 * Link to Moves app to auto-create routines
 * Ease of adjusting sets
 * History for exercises
+* Allow me to add for any date, ever - don't tell me today is the future
